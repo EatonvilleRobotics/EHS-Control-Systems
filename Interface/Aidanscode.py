@@ -1,4 +1,3 @@
-#import statements
 from Tkinter import *
 import tkMessageBox
 import tkFont
