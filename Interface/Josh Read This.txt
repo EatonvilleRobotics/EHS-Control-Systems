@@ -1,1 +1,0 @@
-Can't figure out how to run this program through python. I'm sure some of the code is off but i can't find how to properly run this.
